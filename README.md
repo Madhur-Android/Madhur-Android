@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhur Tamrakar</h1>
-<h3 align="center"> I am a passionate Android developer from India with a talent for creating intuitive and robust mobile applications. With a commitment to continuous learning and innovation, I strive to deliver high-quality apps that enhance user experiences. </h3>
+<h3 align="center"> I am a passionate Android developer 💻 from India 🇮🇳 with a talent for creating intuitive and robust mobile applications. With a commitment to continuous learning and innovation, I strive to deliver high-quality apps that enhance user experiences. </h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=madhur-android&label=Profile%20views&color=0e75b6&style=flat" alt="madhur-android" />
